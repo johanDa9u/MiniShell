@@ -1,0 +1,6 @@
+#
+# test08.txt - Exemple de redirection sortie (verification d'ecrasement de fichier)
+#
+
+echo "ce texte va etre ecrasé" > fichier_sortie
+echo "ce texte va apparaitre dans le ficheir" > fichier_sortie

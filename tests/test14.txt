@@ -1,0 +1,15 @@
+#
+# test14.txt - Gestion de sigtstp, jobs, stop
+# 
+
+# (Il faut executer cette commande directement sur le shell)
+
+./boucle
+TSTP
+
+quit #ici on ne peut pas quitter car on a un processus arrété, il faudra executer stop
+
+jobs
+stop
+jobs
+quit

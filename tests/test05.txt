@@ -1,0 +1,5 @@
+#
+# test05.txt - Example de pipe
+#
+
+cat Makefile | grep gcc

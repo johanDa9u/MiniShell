@@ -1,0 +1,5 @@
+#
+# test12.txt - Redirection en entrée
+#
+
+cat < Makefile

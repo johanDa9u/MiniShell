@@ -1,0 +1,5 @@
+#
+# test11.txt - Exécution de commandes en arrière-plan
+#
+# A éxecuter directement sur le shell.
+ls &

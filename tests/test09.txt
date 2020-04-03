@@ -1,0 +1,5 @@
+#
+# test09.txt - Gestion des erreurs (commandes inexistantes)
+#
+
+dvfefa

@@ -1,0 +1,10 @@
+#
+# test15.txt - Réalisation de fg
+# 
+
+# (Il faut executer cette commande directement sur le shell)
+
+./boucle
+TSTP
+jobs
+fg

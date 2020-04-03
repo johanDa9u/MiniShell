@@ -1,0 +1,10 @@
+#
+# test13.txt - Gestion de sigint
+# 
+
+# (Il faut executer cette commande directement sur le shell)
+
+./boucle &
+ps
+INT
+ps

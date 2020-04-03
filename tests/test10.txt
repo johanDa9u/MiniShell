@@ -1,0 +1,7 @@
+#
+# test10.txt - Gestion des erreurs
+# Si l’utilisateur redirige la sortie standard sur un fichier sans les droits d’écriture, le shell affichera Permission denied.
+#
+touch sans_droit_ecriture
+chmod 0444 sans_droit_ecriture
+echo "Ce texte ne sera pas ecrit car le fichier est en read-only" > sans_droit_ecriture

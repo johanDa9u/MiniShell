@@ -1,0 +1,5 @@
+#
+# test07.txt - Exemple de redirection sortie
+#
+
+head -5 Makefile > fichier_sortie

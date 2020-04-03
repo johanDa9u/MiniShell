@@ -1,0 +1,5 @@
+#
+# test06.txt - Exemple de pipes multiples
+#
+
+cat Makefile | grep CC | wc -l

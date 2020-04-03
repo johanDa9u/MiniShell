@@ -1,0 +1,5 @@
+#
+# test00.txt - Tester la commande echo
+#
+
+echo "test"
